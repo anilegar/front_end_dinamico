@@ -1,0 +1,64 @@
+.mat-card{
+    border:3px solid; 
+    color:grey; 
+    border-top-right-radius: 4em 10%; 
+    border-top-left-radius: 4em 10%;
+    height: 600px;
+    width: 1365px;
+}
+
+.diseño{
+    border:3px solid;
+    color:white; 
+    border-top-right-radius: 4em 10%;
+    border-top-left-radius: 4em 10%; 
+    margin-left: 9px;
+    width:1340px;
+    height:320px;
+}
+
+.foto{
+    border-radius:200px;
+    width:170px; height:170px;
+    margin-top:-110px;
+    margin-left: 20px;
+}
+
+.btn-primary{
+    border-color: rosybrown;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+.mdp{
+    margin-top: -300px;
+    margin-left: 1200px;
+    width:135px; 
+    height:40px;
+}
+
+.inti{
+    margin-top: -500px;
+    margin-left: 1200px;
+    width:135px; 
+    height:40px;
+}
+
+.arg{
+    margin-top: -250px;
+    margin-left: 1200px;
+    width:135px; 
+    height:40px;
+    
+}
+
+.informacion{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.contacto{
+    margin-top: 20px;
+    margin-left: 20px;   
+}

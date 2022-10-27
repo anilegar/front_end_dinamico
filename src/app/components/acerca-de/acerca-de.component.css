@@ -1,0 +1,13 @@
+.mat-card{
+    border:3px solid; 
+    color:grey; 
+    height: 120px;
+    width: 1365px;
+}
+
+.acerca{
+    padding: 20px; 
+    color:black;
+    font-size: 20px;
+}
+
