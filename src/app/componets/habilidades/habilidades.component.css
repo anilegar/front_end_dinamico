@@ -1,0 +1,22 @@
+
+.mat-card{
+    border:2px solid; 
+    color:grey; 
+    height: 500px;
+    width: 1365px;
+}
+
+
+
+.logohab{
+    width: 80px;
+    height: 100px;
+    margin-top: -80px;
+    margin-left: 40px;
+}
+
+h2{
+    margin-left: 150px;
+    margin-top: 50px;
+    color: black;
+}

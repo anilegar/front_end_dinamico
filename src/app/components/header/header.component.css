@@ -1,9 +1,9 @@
 .mat-card{
-    border:3px solid; 
+    border:2px solid; 
     color:grey; 
     border-top-right-radius: 4em 10%; 
     border-top-left-radius: 4em 10%;
-    height: 600px;
+    height: 650px;
     width: 1365px;
 }
 
@@ -54,11 +54,14 @@
 }
 
 .informacion{
+    color: black;
     margin-top: 20px;
     margin-left: 20px;
+    
 }
 
 .contacto{
     margin-top: 20px;
-    margin-left: 20px;   
+    margin-left: 20px; 
+    color: black;  
 }

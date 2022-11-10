@@ -1,0 +1,30 @@
+.mat-card{
+    border:2px solid; 
+    color:grey; 
+    height: 200px;
+    width: 1365px;
+}
+
+
+.proyect{
+    width: 60px;
+    height: 80px;
+    margin-top: -60px;
+    margin-left: 50px;
+}
+
+h2{
+    margin-top: 40px;
+    margin-left: 150px;
+    color: black;
+}
+
+h3{
+    margin-top: -5px;
+    margin-left: 50px;
+    color: black;
+}
+
+span{
+   margin-left: 50px;
+}
